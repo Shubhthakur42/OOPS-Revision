@@ -8,6 +8,7 @@ abstract class person {
      * Abstract class cannot be instantiated
      * Abstract class can have constructor
      * Abstract class can be used as a reference
+     * Abstract class can contains concrete and abstract methods
      */
     person(String name,int age,float height){
         this.name=name;
